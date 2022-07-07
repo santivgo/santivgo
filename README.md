@@ -1,7 +1,7 @@
 ## trashrama a.k.a. Santiago
 - ☄️: Pursing Computer Science at Federal Institute of Education Science and Technology
 - 🛰️: Currently, studying Java on vacation
-- 🚀: I have some experience with Python 3 and C 
+- 🚀: I have some experience with Python 3 and C (and a *little* bit with HTML5 & CSS3) 
 - 🌠: Soon, I'll be a Fullstack Dev.
 
 <div align="center">
