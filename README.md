@@ -15,9 +15,9 @@
   <h2 align="left">📊 stats </h2>
   </br>
   <a href="https://github.com/trashrama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trashrama&show_icons=true&theme=tokyonight&icon_color=FFD767&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trashrama&layout=compact&langs_count=7&theme=tokyonight"/>
- <img src="https://activity-graph.herokuapp.com/graph?username=trashrama&theme=monokai&bg_color=1A1B27"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trashrama&show_icons=true&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trashrama&layout=compact&langs_count=7&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767"/>
+  <img height="295em"src="https://activity-graph.herokuapp.com/graph?username=trashrama&theme=monokai&bg_color=1A1B27"/>   
   
 
 </a>
@@ -52,9 +52,8 @@
   <a href="https://t.me/trashrama"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/neosant/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.twitter.com/trashrama"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-
+  <img src="https://github.com/trashrama/trashrama/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
 </div>
 
-  ![Snake animation](https://github.com/trashrama/trashrama/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 
