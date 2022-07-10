@@ -17,14 +17,22 @@
 <div align="center" style="display: inline-block;">
   <h2 align="left">📊 stats </h2>
   </br>
+  
+
+  
+  
   <a href="https://github.com/trashrama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trashrama&show_icons=true&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trashrama&layout=compact&langs_count=7&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767"/>
-  <img height="295em"src="https://activity-graph.herokuapp.com/graph?username=trashrama&theme=monokai&bg_color=1A1B27"/>   
+  <img height="332em" src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD"/>
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=trashrama&theme=monokai&bg_color=1A1B27"/> 
   
-
+  
+  
 </a>
 </div>
+
+
 
 <div align="center" style="display: inline"><br>
   <img align="center" alt="icon-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
