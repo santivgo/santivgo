@@ -58,7 +58,7 @@
 
 
   <img align="left" height="220em" src="https://spotify-github-profile.vercel.app/api/view?uid=0zidq7kxb7ofnhvdms4h4pdcw&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true"/>
-  <img align="right" height="202em" src="/images/headermaurogelion.png"/>
+  <img align="right" height="180em" src="/images/headermaurogelion.png"/>
   
   
   <img src="https://github.com/trashrama/trashrama/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only"/>
