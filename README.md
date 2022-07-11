@@ -57,7 +57,7 @@
   
 
 
-  <img align="left" height="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=0zidq7kxb7ofnhvdms4h4pdcw&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true"/>
+  <img align="left" width="152em" src="https://spotify-github-profile.vercel.app/api/view?uid=0zidq7kxb7ofnhvdms4h4pdcw&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true"/>
   <img align="right" width="820em" src="/images/headermaurogelion.png"/>
   
   
