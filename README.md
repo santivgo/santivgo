@@ -7,14 +7,14 @@
     <img align="right" alt="user-picture" height="150" src="/images/skull-travis.gif" />
     </br>
     <p align="left">
-        - ☄️: Pursing Computer Science at Federal Institute of Education Science and Technology</br>
+        - ☄️: Studying Computer Science at Federal Institute of Education Science and Technology</br>
         - 🛰️: Currently, studying Java on vacation</br>
         - 🚀: I'd some experience with Python 3 and C (and a <em>little</em> bit with HTML5 & CSS3)</br>
         - 🌠: Soon, I'll be a Fullstack Dev.</br>
     </p>
 </div>
 
-<div align="center" style="display: inline-block;">
+<div align="center">
     <h2 align="left">📊 stats </h2>
     <a href="https://github.com/trashrama">
         <img height="180em"
@@ -24,18 +24,15 @@
         <img height="332em"
             src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />
         <img height="295em"
-            src="https://activity-graph.herokuapp.com/graph?username=trashrama&theme=monokai&bg_color=1A1B27" />
+            src="http://github-readme-streak-stats.herokuapp.com/?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />
+        <br/>
+        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,java,html,css" />
     </a>
-</div>
-
-
-<div align="center" style="display: inline"><br>
-
-
-
-    <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,java,html,css" />
+    
 
 </div>
+
+
 
 <div align="center">
     <h2 align="left">🧰 toolbox</h2>
@@ -65,12 +62,14 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.twitter.com/trashrama"><img
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></br></br>
+</div>
 
-    <img align="right" height="198em"
+<div align="center">
+   <img align="right" 
         src="https://spotify-github-profile.vercel.app/api/view?uid=0zidq7kxb7ofnhvdms4h4pdcw&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" />
-    <img align="left" height="190em" src="/images/headermaurogelion.png" />
+</div>
 
-
-    <img
-        src="https://github.com/trashrama/trashrama/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+<div>
+  <img align="left" height="190em" src="/images/headermaurogelion.png" />
+  <img src="https://github.com/trashrama/trashrama/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 </div>
