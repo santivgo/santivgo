@@ -3,8 +3,7 @@
 
 ##
 
-<div align="center">
-
+<div>
     <img align="right" alt="user-picture" height="150" src="/images/skull-travis.gif" />
     </br>
     <p align="left">
