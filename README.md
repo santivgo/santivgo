@@ -65,11 +65,12 @@
 </div>
 
 <div align="center">
-   <img align="right" 
+  <img height="200em" align="right" 
         src="https://spotify-github-profile.vercel.app/api/view?uid=0zidq7kxb7ofnhvdms4h4pdcw&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" />
+  <img align="left" height="190em" src="/images/headermaurogelion.png" />
+  <img src="https://github.com/trashrama/trashrama/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 </div>
 
 <div>
-  <img align="left" height="190em" src="/images/headermaurogelion.png" />
-  <img src="https://github.com/trashrama/trashrama/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+
 </div>
