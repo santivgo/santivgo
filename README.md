@@ -8,7 +8,7 @@
     </br>
     <p align="left">
         - ☄️: Studying Computer Science at Federal Institute of Education Science and Technology</br>
-        - 🛰️: Currently, studying Java on vacation</br>
+        - 🛰️: Currently, studying Web Development on vacation</br>
         - 🚀: I'd some experience with Python 3 and C (and a <em>little</em> bit with HTML5 & CSS3)</br>
         - 🌠: Soon, I'll be a Fullstack Dev.</br>
     </p>
