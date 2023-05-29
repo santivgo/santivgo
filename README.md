@@ -1,3 +1,4 @@
+
 <img align="center"
     src="https://readme-typing-svg.herokuapp.com?font=Lora&size=34&color=FCFCFC&center=true&vCenter=true&lines=trashrama+a.k.a.+Santiago" />
 
@@ -22,11 +23,7 @@
         <img height="180em"
             src="https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=trashrama&layout=compact&langs_count=7&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767" />
         <img height="332em"
-            src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />
-        <img height="295em"
-            src="http://github-readme-streak-stats.herokuapp.com/?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />
-        <br/>
-        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,java,html,css" />
+            src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,dart,html,css," />
     </a>
     
 
