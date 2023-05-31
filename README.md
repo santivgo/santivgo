@@ -47,10 +47,12 @@
         src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+
+   
 </div>
 
+</br>
 <div align="center">
-    <h1>📨 contact me!</h1>
     <a href="mailto:requiemsantiago@gmail.com?Subject=Message"><img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://t.me/trashrama"><img
@@ -59,13 +61,6 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.twitter.com/trashrama"><img
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></br></br>
-</div>
-
-<div align="center">
-  <img height="200em" align="right" 
-        src="https://spotify-github-profile.vercel.app/api/view?uid=0zidq7kxb7ofnhvdms4h4pdcw&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" />
-  <img align="left" height="190em" src="/images/headermaurogelion.png" />
-  <img src="https://github.com/trashrama/trashrama/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 </div>
 
 <div>
