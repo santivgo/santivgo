@@ -1,17 +1,16 @@
 
-<img align="center"
-    src="https://readme-typing-svg.herokuapp.com?font=Lora&size=34&color=FCFCFC&center=true&vCenter=true&lines=trashrama+a.k.a.+Santiago" />
 
-##
+## trashrama [the Github]
 
 <div>
-    <img align="right" alt="user-picture" height="150" src="/images/skull-travis.gif" />
+		<p align="center"><strong>hi, everyone!!!!</strong></p>
+    <img align="right" alt="user-picture" height="150" src="/images/yusuke .gif" />
     </br>
     <p align="left">
-        - ☄️: Studying Computer Science at Federal Institute of Education Science and Technology</br>
-        - 🛰️: Currently, studying Web Development on vacation</br>
-        - 🚀: I'd some experience with Python 3 and C (and a <em>little</em> bit with JAVA)</br>
-        - 🌠: Soon, I'll be a Fullstack Dev.</br>
+        - ☄️: Currently pursuing a degree in <strong>Computer Science</strong> at the Federal Institute of Education, Science, and Technology.</br>
+        - 🛰️: Now, I'm studying <strong>Dart</strong> and <strong>Web Development</strong> during my vacation</br>
+        - 🚀: I'd some experience with <strong> Python 3</strong>, <strong>C</strong>, <strong>Postgre/PLpgSQL</strong> </br>
+        - 🌠: I want to be a <strong> Fullstack Dev</strong>.</br>
     </p>
 </div>
 
@@ -23,7 +22,7 @@
         <img height="180em"
             src="https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=trashrama&layout=compact&langs_count=7&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767" />
         <img height="332em"
-            src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,dart,html,css," />
+            src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,dart,postgres,html,css,sqlite" />
     </a>
     
 
@@ -35,16 +34,13 @@
     <h2 align="left">🧰 toolbox</h2>
     <img
         src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
     <img
-        src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+        src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 
