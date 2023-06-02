@@ -9,7 +9,7 @@
     <p align="left">
         - ☄️: Currently pursuing a degree in <strong>Computer Science</strong> at the Federal Institute of Education, Science, and Technology.</br>
         - 🛰️: Now, I'm studying <strong>Dart</strong> and <strong>Web Development</strong> during my vacation</br>
-        - 🚀: I'd some experience with <strong> Python 3</strong>, <strong>C</strong>, <strong>Postgre/PLpgSQL</strong> </br>
+        - 🚀: I'd some experience with <strong> Python 3</strong>, <strong>C</strong>, and<strong> abPostgre/PLpgSQL</strong>. </br>
         - 🌠: I want to be a <strong> Fullstack Dev</strong>.</br>
     </p>
 </div>
@@ -21,13 +21,12 @@
             src="https://readme-stats.vercel.danielmolina.me/api?username=trashrama&show_icons=true&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767&include_all_commits=true&count_private=true" />
         <img height="180em"
             src="https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=trashrama&layout=compact&langs_count=7&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767" />
-        <img height="332em"
-            src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,dart,postgres,html,css,sqlite" />
+        <img height="330em"
+            src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />
+            </br>
+        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,dart,postgres,html,css,sqlite" />
     </a>
-    
-
 </div>
-
 
 
 <div align="center">
