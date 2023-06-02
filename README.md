@@ -4,7 +4,7 @@
 
 <div>
 		<p align="center"><strong>hi, everyone!!!!</strong></p>
-    <img align="right" alt="user-picture" height="150" src="/images/yusuke .gif" />
+    <img align="right" alt="user-picture" height="150" src="/images/yusuke.gif" />
     </br>
     <p align="left">
         - ☄️: Currently pursuing a degree in <strong>Computer Science</strong> at the Federal Institute of Education, Science, and Technology.</br>
