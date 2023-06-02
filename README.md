@@ -1,6 +1,6 @@
 
 
-## trashrama [the Github]
+# trashrama [the Github]
 
 <div>
 		<p align="center"><strong>hi, everyone!!!!</strong></p>
