@@ -9,7 +9,7 @@
     <p align="left">
         - ☄️: Currently pursuing a degree in <strong>Computer Science</strong> at the Federal Institute of Education, Science, and Technology.</br>
         - 🛰️: Now, I'm studying <strong>Dart</strong> and <strong>Web Development</strong> during my vacation</br>
-        - 🚀: I'd some experience with <strong> Python 3</strong>, <strong>C</strong>, and<strong> abPostgre/PLpgSQL</strong>. </br>
+        - 🚀: I'd some experience with <strong> Python 3</strong>, <strong>C</strong>, and<strong>Postgre/PLpgSQL</strong>. </br>
         - 🌠: I want to be a <strong> Fullstack Dev</strong>.</br>
     </p>
 </div>
