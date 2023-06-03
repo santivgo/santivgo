@@ -1,6 +1,6 @@
 
 
-# ~~~~~~~ trashrama [the GitHub] ~~~~~~~
+# trashrama [the GitHub] 
 
 <div>
 		<p align="center"><strong>hi, everyone!!!!</strong></p>
