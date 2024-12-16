@@ -1,6 +1,5 @@
 
 
-# trashrama [the GitHub] 
 
 <div>
     <img align="right" alt="user-picture" height="150" src="/images/yusuke.gif" />
