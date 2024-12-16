@@ -3,13 +3,12 @@
 # trashrama [the GitHub] 
 
 <div>
-		<p align="center"><strong>hi, everyone!!!!</strong></p>
     <img align="right" alt="user-picture" height="150" src="/images/yusuke.gif" />
     </br>
     <p align="left">
         - ☄️: Currently pursuing a degree in <strong>Computer Science</strong> at the Federal Institute of Education, Science, and Technology.</br>
         - 🛰️: Now, I'm studying <strong>Python (POO)</strong> and <strong>Web Development</strong></br>
-        - 🚀: I'd some experience with <strong> Python 3</strong>, <strong>C</strong>, <strong>Dart</strong> and <strong>Postgre/PLpgSQL</strong>. </br>
+        - 🚀: I'd major experience with <strong> Python 3</strong>, Java, <strong>C</strong>, <strong>Dart</strong></br>
         - 🌠: I want to be a <strong> Fullstack Dev</strong>.</br>
     </p>
 </div>
@@ -18,11 +17,11 @@
     <h2 align="left">📊 stats </h2>
     <a href="https://github.com/trashrama">
         <img height="180em"
-            src="https://readme-stats.vercel.danielmolina.me/api?username=trashrama&show_icons=true&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767&include_all_commits=true&count_private=true" />
+            src="https://readme-stats.vercel.danielmolina.me/api?username=santivgo&show_icons=true&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767&include_all_commits=true&count_private=true" />
         <img height="180em"
-            src="https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=trashrama&layout=compact&langs_count=7&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767" />
+            src="https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=santivgo&layout=compact&langs_count=7&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767" />
         <img height="330em"
-            src="http://github-readme-streak-stats.herokuapp.com?user=trashrama&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />
+            src="http://github-readme-streak-stats.herokuapp.com?user=santivgo&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />
             </br>
         <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,dart,postgres,html,css,sqlite" />
     </a>
