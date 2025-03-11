@@ -14,7 +14,7 @@
 
 <div align="center">
     <h2 align="left">📊 stats </h2>
-    <a href="https://github.com/trashrama">
+    <a href="https://github.com/santivgo">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=santivgo&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
         <img height="180em"
