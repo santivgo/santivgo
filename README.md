@@ -6,8 +6,8 @@
     </br>
     <p align="left">
         - ☄️: Currently pursuing a degree in <strong>Computer Science</strong> at the Federal Institute of Education, Science, and Technology.</br>
-        - 🛰️: Now, I'm studying <strong>Python (POO)</strong> and <strong>Web Development</strong></br>
-        - 🚀: I'd major experience with <strong> Python 3</strong>, Java, <strong>C</strong>, <strong>Dart</strong></br>
+        - 🛰️: Now, I'm studying <strong>Angular</strong></br>
+        - 🚀: I'd major experience with <strong> Python 3</strong>, Java, <strong>C</strong</br>
         - 🌠: I want to be a <strong> Fullstack Dev</strong>.</br>
     </p>
 </div>
@@ -16,13 +16,13 @@
     <h2 align="left">📊 stats </h2>
     <a href="https://github.com/trashrama">
         <img height="180em"
-            src="https://readme-stats.vercel.danielmolina.me/api?username=santivgo&show_icons=true&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=santivgo&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
         <img height="180em"
-            src="https://readme-stats.vercel.danielmolina.me/api/top-langs/?username=santivgo&layout=compact&langs_count=7&theme=tokyonight&title_color=FCFCFA&text_color=FF6188&icon_color=ffd767" />
+            src="https://github-readme-streak-stats.herokuapp.com/?user=santivgo&theme=dracula&hide_border=false" />
         <img height="330em"
-            src="http://github-readme-streak-stats.herokuapp.com?user=santivgo&theme=dark&background=1A1B27&ring=DDDDDD&sideNums=FF6188&currStreakNum=FF6188&fire=FFD767&currStreakLabel=DDDDDD&border=DDDDDD" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=santivgo&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
             </br>
-        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,dart,postgres,html,css,sqlite" />
+        <img align="center" alt="icons" height="40em" src="https://skillicons.dev/icons?i=python,c,java,postgres,html,css" />
     </a>
 </div>
 
@@ -47,7 +47,7 @@
 <div align="center">
     <a href="mailto:requiemsantiago@gmail.com?Subject=Message"><img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://t.me/trashrama"><img
+    <a href="https://t.me/santtt"><img
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/neosant/"><img
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
