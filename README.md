@@ -20,10 +20,14 @@
 <div>
 
 <h2> 🚀 sobre mim</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div style="display: flex;">
 <div>
-<p>sou aluno do curso de bacharelado em ciência da computação do IFCE desde 2022, com
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+    <div>
+<div>
+<img width="200"  style="object-fit: cover; margin-left: 20px" align="right" src="/images/daft.gif" alt="">
+
+<p style="padding: 20%">sou aluno do curso de bacharelado em ciência da computação do IFCE desde 2022, com
 previsão de formatura no
 final de 2025.</p>
 
@@ -46,10 +50,11 @@ href="https://github.com/santivgo/paginacaoFlutter">flutter</a>,
 href="https://github.com/santivgo/iracema"> um bot
 assíncrono para discord</a>.
 
+
 </p>
+
 </div>
 
-<img style="width: 30%;" src="/images/daft.gif" alt="">
 </div>
 
 <div>
@@ -64,7 +69,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 <div align="center">
 <a href="https://github.com/santivgo/ridervision" target="_blank">
 <img src="https://raw.githubusercontent.com/santivgo/ridervision/refs/heads/main/pre-projeto/assets/ridervision-logo-colored.png"
-width="500" style="object-fit: cover;" alt="El Molino">
+width="500" style="object-fit: cover;" alt="ridervision">
 </a>
 <p>
 
