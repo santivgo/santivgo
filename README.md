@@ -1,5 +1,4 @@
 <img style="width: 100%" src="/images/header-new.png">
-
 <h1 style="width: 100%; text-align: center;"><a href="github.com/santivgo">santivgo</a></h1>
 <div style="height: 7%; width: 100%; display: flex; justify-content: center; gap: 5px">
     <img src="https://skillicons.dev/icons?i=angular" alt="">
@@ -15,6 +14,7 @@
     <img src="https://skillicons.dev/icons?i=git" alt="">
 
 </div>
+
 <br>
 
 <div>
@@ -49,7 +49,7 @@
             </p>
         </div>
 
-        <img style="max-width: 30%;" src="https://giffiles.alphacoders.com/212/212326.gif" alt="">
+        <img style="max-width: 30%;" src="/images/daft.gif" alt="">
     </div>
 
     <div>
