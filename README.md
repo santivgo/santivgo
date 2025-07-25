@@ -23,19 +23,19 @@
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-    <div>
-<div>
-<img width="200"  style="object-fit: cover; margin-left: 20px" align="right" src="/images/daft.gif" alt="">
 
-<p style="padding: 20%">sou aluno do curso de bacharelado em ciência da computação do IFCE desde 2022, com
+
+<img width="200"  align="right" src="/images/daft.gif" alt="">
+
+sou aluno do curso de bacharelado em ciência da computação do IFCE desde 2022, com
 previsão de formatura no
-final de 2025.</p>
+final de 2025.
 
-<p>atualmente, estou focado na elaboração da aplicação do meu TCC (trabalho de conclusão de curso) estudando
+atualmente, estou focado na elaboração da aplicação do meu TCC (trabalho de conclusão de curso) estudando
 conceitos no campo de aprendizagem não-supervisionada em ML. entretanto, meu foco é me especializar na
-área de desenvolvimento web mantendo meus esforços em <strong>Angular</strong>, mas com o objetivo de
+área de desenvolvimento web mantendo meus esforços em **Angular**, mas com o objetivo de
 ser futuro full-stack com Django.</p>
-<p>mesmo assim, estou disposto a aprender sobre as partes mais diversas de computação que me interessem. se
+mesmo assim, estou disposto a aprender sobre as partes mais diversas de computação que me interessem. se
 fuçar no
 meu github
 poderá
@@ -51,15 +51,13 @@ href="https://github.com/santivgo/iracema"> um bot
 assíncrono para discord</a>.
 
 
-</p>
 
-</div>
 
-</div>
+
 
 <div>
 
-<h2>meu melhor trabalho</h2>
+<h2> 📆 meu melhor trabalho</h2>
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table>
