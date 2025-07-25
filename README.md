@@ -46,9 +46,9 @@ interface gráfica em <a href="https://github.com/santivgo/deskwall"> python</a>
 href="https://github.com/santivgo/enigma">JavaFX e MySQL</a> e <a
 href="https://github.com/santivgo/slow">Java Swing</a>) e <a
 href="https://github.com/santivgo/paginacaoFlutter">flutter</a>,
-<a href="https://github.com/santivgo/projetoAgendaC">uma agenda persistente em C</a>, e <a
+<a href="https://github.com/santivgo/projetoAgendaC">uma agenda persistente em C</a>, <a
 href="https://github.com/santivgo/iracema"> um bot
-assíncrono para discord</a>.
+assíncrono para discord</a> e <a href="https://github.com/santivgo/pocketspace">uma implementação de jogo usando WebGPU via CoffeeScript</a>.
 
 
 
@@ -57,7 +57,7 @@ assíncrono para discord</a>.
 
 <div>
 
-<h2> 📆 meu melhor trabalho</h2>
+<h2> ⭐ meu melhor trabalho</h2>
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table>
