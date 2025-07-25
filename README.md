@@ -27,23 +27,15 @@
 
 <img width="200"  align="right" src="/images/daft.gif" alt="">
 
-sou aluno do curso de bacharelado em ciência da computação do IFCE desde 2022, com
-previsão de formatura no
-final de 2025.
+Sou aluno do curso de bacharelado em ciência da computação do IFCE desde 2022, com
+previsão de formatura no final de 2025. Atualmente, estou focado na elaboração da aplicação do meu TCC (trabalho de conclusão de curso), estudando
+conceitos no campo de aprendizagem não-supervisionada em ML. Entretanto, meu foco é me especializar na
+área de desenvolvimento web, mantendo meus esforços em **Angular**, mas com o objetivo de futuramente ser full-stack com Django.</p>
 
-atualmente, estou focado na elaboração da aplicação do meu TCC (trabalho de conclusão de curso) estudando
-conceitos no campo de aprendizagem não-supervisionada em ML. entretanto, meu foco é me especializar na
-área de desenvolvimento web mantendo meus esforços em **Angular**, mas com o objetivo de
-ser futuro full-stack com Django.</p>
-mesmo assim, estou disposto a aprender sobre as partes mais diversas de computação que me interessem. se
-fuçar no
-meu github
-poderá
-ver alguns experimentos, como <a href="https://github.com/santivgo/pokedb">web-scraping para compor
-um banco com PostgreSQL</a>, programas
-com
-interface gráfica em <a href="https://github.com/santivgo/deskwall"> python</a>, java (<a
-href="https://github.com/santivgo/enigma">JavaFX e MySQL</a> e <a
+Mas mesmo assim, estou disposto a aprender sobre as partes mais diversas de computação que me interessem. Se fuçar no
+meu github poderá ver alguns experimentos, como <a href="https://github.com/santivgo/pokedb">web-scraping para compor
+um banco com PostgreSQL</a>, programas com interface gráfica em <a href="https://github.com/santivgo/deskwall"> python</a>, java (<a
+href="https://github.com/santivgo/enigma">JavaFX e JDBC</a> e <a
 href="https://github.com/santivgo/slow">Java Swing</a>) e <a
 href="https://github.com/santivgo/paginacaoFlutter">flutter</a>,
 <a href="https://github.com/santivgo/projetoAgendaC">uma agenda persistente em C</a>, <a
@@ -77,7 +69,7 @@ width="500" style="object-fit: cover;" alt="ridervision">
 foi concluído por mim e <a href="https://github.com/alyssonhenri">AlyssonHenri</a> e
 conta com a implementação de sessões com token JWT através da biblioteca Djoser e
 contenearização da aplicação com Docker. Além disso, neste projeto também tivemos a primeira
-experiência real de como seria o ambiente de desenvolvimento real, com membro da dupla
+experiência real de como seria o ambiente de desenvolvimento real, com cada membro da dupla
 trabalhando em sua branch isoladamente, e revisando os commits um do outro.
 </p>
 <a href="https://github.com/santivgo/ridervision" target="_blank">
